@@ -12,8 +12,8 @@ This template repository has all the code you need, with a preconfigured Codespa
 <img src="https://octodex.github.com/images/manufacturetocat.png" alt="image of manufacturetocat" width="200"/>
 
 ### Step 1: Add a .env file
-This template repository requires a `.env` file to pass variables to your application. The `.env` file is used to store data that you want to keep private or hidden like API keys or tokens from external services like Discord. 
-
+This template repository requires a `.env` file to pass variables to your application. The `.env` file is used t   o store data that you want to keep private or hidden like API keys or tokens from external services like Discord. 
+ 
 This template repository has a sample .env file, `.env-sample`, that you can rename to `.env` or copy and paste the variables in `.env-sample` into a new `.env` file. 
 
 ### Step 2: Add your favorite meme
